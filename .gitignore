@@ -1,0 +1,10 @@
+*.class
+.idea/
+.vscode/
+out/
+build/
+.local/
+.env
+.env.*
+*secret*
+*apikey*
